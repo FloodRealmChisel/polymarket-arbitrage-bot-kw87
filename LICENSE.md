@@ -1,4 +1,4 @@
-# 
+# Polymarket new Trading Bot: slippage-control & event-driven-trading offers the most advanced Polymarket trading-bot, with slippage-control and event-driven-trading. Ideal for
 
 
 
